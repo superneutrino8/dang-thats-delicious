@@ -8,7 +8,7 @@ Dang That's Delicious | Resturant Finder/Review using Node.<br />
 
 Created Using NodeJS and Express
 
-[Click Here For Preview](https://catch-the-fish-superneutrino8.netlify.app/)
+[Click Here For Preview](https://dangg-thats-delicious.herokuapp.com/)
 
 ## Tech Stack
 
