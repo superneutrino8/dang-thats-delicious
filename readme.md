@@ -1,27 +1,30 @@
-## What is this?
+# Dang That's Delicious
 
-Just you wait folks!
+![Dang That's Delicious](https://raw.githubusercontent.com/superneutrino8/dang-thats-delicious/master/public/images/Dang.PNG)
 
-## Sample Data
+## Introduction
 
-To load sample data, run the following command in your terminal:
+Dang That's Delicious | Resturant Finder/Review using Node.<br />
 
-```bash
-npm run sample
-```
+Created Using NodeJS and Express
 
-If you have previously loaded in this data, you can wipe your database 100% clean with:
+[Click Here For Preview](https://catch-the-fish-superneutrino8.netlify.app/)
 
-```bash
-npm run blowitallaway
-```
+## Tech Stack
 
-That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
+- NodeJS
+- Express
+- MongoDB
+- Mongoose
+- Passport JS
+- Node Mailer
+- PUG
+- Axios
 
-|Name|Email (login)|Password|
-|---|---|---|
-|Wes Bos|wes@example.com|wes|
-|Debbie Downer|debbie@example.com|debbie|
-|Beau|beau@example.com|beau|
+## Credits
 
+[Wes Bos](https://github.com/wesbos) :sparkles:
 
+## License
+
+This project is open source and available under the [MIT License](LICENSE.md).
