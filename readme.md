@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Dang That's Delicious | Resturant Finder/Review using Node.<br />
+Dang That's Delicious | Restaurants Finder/Review using Node.<br />
 
 Created Using NodeJS and Express
 
